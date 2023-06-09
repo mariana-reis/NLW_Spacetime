@@ -49,9 +49,10 @@ export default function App() {
 
   
   return (
-    <View className="flex-1 items-center-8 py-10">
+    <View className="flex-1 items-center px-8 py-10">
       <View className="flex-1 items-center justify-center gap-6">
         < NLWLogo />
+        
         <View className="space-y-2">
           <Text className="text-center font-title text-2xl leading-tight text-gray-50">Sua cápsula do tempo</Text>
           <Text className="text-center font-body text-base leading-relaxed text-gray-100">
